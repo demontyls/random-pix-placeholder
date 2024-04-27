@@ -1,0 +1,12 @@
+{
+  "name": "random-pix-palceholder",
+  "version": "1.0.0",
+  "description": "An avatar generator is a tool that creates unique images based on a random selection from a variety of options provided. It allows users to experiment with different styles, colors, and backgrounds to find the perfect combination for their online persona.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Oleg Zagoruy",
+  "license": "ISC"
+}
